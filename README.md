@@ -23,9 +23,19 @@
 <a href="https://javascript-06-modal.netlify.app">
   <img src="./00-design/06-modal.jpeg" alt="modal" width="270" height="200" ">
 </a>
+
 <a href="https://javascript-07-questions.netlify.app">
   <img src="./00-design/07-questions.jpeg" alt="questions" width="270" height="200" ">
 </a>
+
 <a href="https://javascript-08-menu.netlify.app">
   <img src="./00-design/08-menu.jpeg" alt="menu" width="270" height="200" ">
+</a>
+
+<a href="https://javascript-09-video.netlify.app">
+  <img src="./00-design/09-video.jpeg" alt="video" width="270" height="200" ">
+</a>
+
+<a href="https://javascript-10-scroll.netlify.app">
+  <img src="./00-design/10-scroll.jpeg" alt="scroll" width="270" height="200" ">
 </a>
