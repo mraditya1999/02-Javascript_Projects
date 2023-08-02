@@ -290,19 +290,3 @@ Slider
 } */
 
 /* negative value moves to left */
-
-.btn-container {
-  position: absolute;
-  width: 100%;
-  top: 50%;
-  transform: translateY(-50%);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.prev-btn,
-.next-btn {
-  color: var(--clr-white);
-  font-size: 3rem;
-}

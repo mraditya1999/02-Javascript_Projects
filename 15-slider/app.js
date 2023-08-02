@@ -31,5 +31,3 @@ function carousel() {
     slide.style.transform = `translateX(-${count * 100}%)`;
   });
 }
-
-carousel();
