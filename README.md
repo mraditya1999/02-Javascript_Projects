@@ -59,3 +59,7 @@
 <a href="https://javascript-15-slider.netlify.app">
   <img src="./00-design/15-slider.jpeg" alt="slider" width="270" height="200" ">
 </a>
+
+<a href="https://javascript-16-counter.netlify.app">
+  <img src="./00-design/16-counter.jpeg" alt="OOPs counter" width="270" height="200" ">
+</a>
