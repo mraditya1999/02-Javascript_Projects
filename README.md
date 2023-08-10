@@ -67,3 +67,23 @@
 <a href="https://javascipt-17-gallery.netlify.app">
   <img src="./00-design/17-gallery.jpeg" alt="OOPs Gallery" width="270" height="200" ">
 </a>
+
+<a href="https://javascipt-18-numbers.netlify.app">
+  <img src="./00-design/18-numbers.jpeg" alt="OOPs Gallery" width="270" height="200" ">
+</a>
+
+<a href="https://javascipt-19-dark-mode.netlify.app">
+  <img src="./00-design/19-dark-mode.jpeg" alt="OOPs Gallery" width="270" height="200" ">
+</a>
+
+<a href="https://javascipt-20-filters.netlify.app">
+  <img src="./00-design/20-filters.jpeg" alt="OOPs Gallery" width="270" height="200" ">
+</a>
+
+<a href="https://javascipt-31-notification-toast.netlify.app">
+  <img src="./00-design/31-notification-toast.jpeg" alt="OOPs Gallery" width="270" height="200" ">
+</a>
+
+<a href="https://javascipt-32-analog-clock.netlify.app">
+  <img src="./00-design/32-analog-clock.jpeg" alt="OOPs Gallery" width="270" height="200" ">
+</a>
