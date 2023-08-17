@@ -33,8 +33,8 @@ body.dark {
 }
 .container .clock {
   display: flex;
-  height: 400px;
-  width: 400px;
+  height: 300px;
+  width: 300px;
   border-radius: 50%;
   align-items: center;
   justify-content: center;
@@ -74,7 +74,7 @@ body.dark {
 }
 .indicator .hand {
   position: absolute;
-  height: 130px;
+  height: 100px;
   width: 4px;
   bottom: 0;
   border-radius: 25px;
@@ -82,13 +82,13 @@ body.dark {
   background: var(--red-color);
 }
 .hand.minute {
-  height: 120px;
-  width: 5px;
+  height: 90px;
+  width: 4px;
   background: var(--black-color);
 }
 .hand.hour {
-  height: 100px;
-  width: 8px;
+  height: 80px;
+  width: 6px;
   background: var(--black-color);
 }
 .mode-switch {

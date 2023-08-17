@@ -5,19 +5,19 @@ const toastDetails = {
   timer: 5000,
   success: {
     icon: 'fa-circle-check',
-    text: 'Success: This is a success toast.',
+    text: 'Success Toast',
   },
   error: {
     icon: 'fa-circle-xmark',
-    text: 'Error: This is an error toast.',
+    text: 'Error Toast',
   },
   warning: {
     icon: 'fa-triangle-exclamation',
-    text: 'Warning: This is a warning toast.',
+    text: 'Warning Toast',
   },
   info: {
     icon: 'fa-circle-info',
-    text: 'Info: This is an information toast.',
+    text: 'Info Toast',
   },
 };
 

@@ -69,21 +69,29 @@
 </a>
 
 <a href="https://javascipt-18-numbers.netlify.app">
-  <img src="./00-design/18-numbers.jpeg" alt="OOPs Gallery" width="270" height="200" ">
+  <img src="./00-design/18-numbers.jpeg" alt="Numbers" width="270" height="200" ">
 </a>
 
 <a href="https://javascipt-19-dark-mode.netlify.app">
-  <img src="./00-design/19-dark-mode.jpeg" alt="OOPs Gallery" width="270" height="200" ">
+  <img src="./00-design/19-dark-mode.jpeg" alt="Dark Mode" width="270" height="200" ">
 </a>
 
 <a href="https://javascipt-20-filters.netlify.app">
-  <img src="./00-design/20-filters.jpeg" alt="OOPs Gallery" width="270" height="200" ">
+  <img src="./00-design/20-filters.jpeg" alt="Filters" width="270" height="200" ">
+</a>
+
+<a href="https://javascipt-21-dad-jokes.netlify.app">
+  <img src="./00-design/21-dad-jokes.jpeg" alt="Filters" width="270" height="200" ">
+</a>
+
+<a href="https://javascipt-22-products.netlify.app">
+  <img src="./00-design/22-products.jpeg" alt="Products" width="270" height="200" ">
 </a>
 
 <a href="https://javascipt-31-notification-toast.netlify.app">
-  <img src="./00-design/31-notification-toast.jpeg" alt="OOPs Gallery" width="270" height="200" ">
+  <img src="./00-design/31-notification-toast.jpeg" alt="Notification Toast" width="270" height="200" ">
 </a>
 
 <a href="https://javascipt-32-analog-clock.netlify.app">
-  <img src="./00-design/32-analog-clock.jpeg" alt="OOPs Gallery" width="270" height="200" ">
+  <img src="./00-design/32-analog-clock.jpeg" alt="Analog Clock" width="270" height="200" ">
 </a>

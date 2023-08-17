@@ -129,7 +129,17 @@ body {
 .toast i:last-child:hover {
   color: var(--dark);
 }
+
+.buttons {
+  width: 90vw;
+  max-width: 700px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
 .buttons .btn {
+  flex: 1 1 max-content;
   border: none;
   outline: none;
   cursor: pointer;
