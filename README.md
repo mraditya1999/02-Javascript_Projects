@@ -88,6 +88,10 @@
   <img src="./00-design/22-products.jpeg" alt="Products" width="270" height="200" ">
 </a>
 
+<a href="https://javascript-23-random-user.netlify.app">
+  <img src="./00-design/23-random-user.jpeg" alt="Random User" width="270" height="200" ">
+</a>
+
 <a href="https://javascript-31-notification-toast.netlify.app">
   <img src="./00-design/31-notification-toast.jpeg" alt="Notification Toast" width="270" height="200" ">
 </a>
