@@ -92,6 +92,14 @@
   <img src="./00-design/23-random-user.jpeg" alt="Random User" width="270" height="200" ">
 </a>
 
+<a href="https://javascript-24-cocktails.netlify.app">
+  <img src="./00-design/24-cocktails.jpeg" alt="Cocktails" width="270" height="200" ">
+</a>
+
+<a href="https://javascript-25-slider.netlify.app">
+  <img src="./00-design/25-slider.jpeg" alt="Slider" width="270" height="200" ">
+</a>
+
 <a href="https://javascript-31-notification-toast.netlify.app">
   <img src="./00-design/31-notification-toast.jpeg" alt="Notification Toast" width="270" height="200" ">
 </a>
