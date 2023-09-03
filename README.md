@@ -100,6 +100,10 @@
   <img src="./00-design/25-slider.jpeg" alt="Slider" width="270" height="200" ">
 </a>
 
+<a href="https://javascript-26-stripe-submenus.netlify.app">
+  <img src="./00-design/26-stripe-submenus.jpeg" alt="Stripe Submenus" width="270" height="200" ">
+</a>
+
 <a href="https://javascript-31-notification-toast.netlify.app">
   <img src="./00-design/31-notification-toast.jpeg" alt="Notification Toast" width="270" height="200" ">
 </a>
