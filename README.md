@@ -104,6 +104,14 @@
   <img src="./00-design/26-stripe-submenus.jpeg" alt="Stripe Submenus" width="270" height="200" ">
 </a>
 
+<a href="https://javascript-27-pagination.netlify.app">
+  <img src="./00-design/27-pagination.jpeg" alt="Pagination" width="270" height="200" ">
+</a>
+
+<a href="https://javascript-30-stopwatch.netlify.app">
+  <img src="./00-design/30-stopwatch.jpeg" alt="Stopwatch" width="270" height="200" ">
+</a>
+
 <a href="https://javascript-31-notification-toast.netlify.app">
   <img src="./00-design/31-notification-toast.jpeg" alt="Notification Toast" width="270" height="200" ">
 </a>
