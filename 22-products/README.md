@@ -1,29 +1,6 @@
-## Products Project
+## PRODUCTS
 
-#### Structure (HTML)
-
-- section.products
-
-  - div.title
-    - h2(products)
-    - div.title-underline
-  - div.products-center
-    - div.products-container
-      - a.single-product href="product.html"
-        - img.single-product-img.img
-        - footer
-          - h5.name (product title)
-          - span.price($9.99)
-
-- create product.html
-- basic structure
-
-#### Loading and Error
-
-- (CSS Loading Spinner)[https://youtu.be/DqqZEpctZ8w]
-- in .products-center
-- div.loading
-- p.error
+[![Products](./design/22-products.jpeg)](https://javascript-22-products.netlify.app)
 
 #### API Docs
 
@@ -58,22 +35,6 @@
 - iterate over list
 - pull out all the values
 - set productsDOM equal to result
-
-#### Single Product
-
-- link styles.css
-- a.btn.home-link(back home)
-- section.product
-- div.product-wrapper
-  - img.img
-  - div.product-info
-    - h3 (title)
-    - h5 (company)
-    - span (price)
-    - div.colors
-      - span.product-color
-    - p (lorem text)
-    - button.btn(add to cart)
 
 #### product.js setup
 

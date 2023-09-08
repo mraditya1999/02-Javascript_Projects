@@ -1,11 +1,6 @@
-## Numbers Project
+## NUMBERS
 
-#### Structure (HTML)
-
-- section
-  - article
-    - span.number data-value="value" (0)
-    - p (text)
+[![Numbers](./design/18-numbers.jpeg)](https://javascipt-18-numbers.netlify.app)
 
 #### Logic (JS)
 

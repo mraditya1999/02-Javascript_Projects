@@ -1,19 +1,6 @@
-## Dark Mode
+## DARK MODE
 
-#### HTML Structure
-
-- main tags
-  - nav
-    - div.nav-center
-      - span 'overreacted'
-      - button.btn 'toggle'
-  - section.articles
-    - article.post
-      - h2 'post title'
-      - div.post-info
-        - span 'date'
-        - span 'read time'
-      - p 'content'
+[![Dark Mode](./design/19-dark-mode.jpeg)](https://javascript-19-dark-mode.netlify.app)
 
 #### Toggle - JS
 

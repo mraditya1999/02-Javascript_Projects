@@ -1,14 +1,6 @@
-## Dad Jokes Project
+## DAD JOKES
 
-#### HTML Structure
-
-- div.container
-  - button.btn
-  - p.result(dummy text)
-
-#### External Data
-
-- the main idea the same, just external data
+[![Dad Jokes](./design/21-dad-jokes.jpeg)](https://javascript-21-dad-jokes.netlify.app)
 
 #### What is an API?
 

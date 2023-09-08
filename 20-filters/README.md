@@ -1,26 +1,6 @@
-## Filters Project
+## FILTERS
 
-#### HTML Structure
-
-- section.products
-
-  - div.filters-container
-  - div.products-container
-
-- .filters-container
-
-  - form.input-form
-    - input.search-input
-  - h5(company)
-  - article.companies
-    - button.company-btn(temp values)
-
-- .products-container
-  - article.product
-    - img.product-img.img (src from products.js)
-    - footer
-      - h5.product-name(name)
-      - span.product-price(price)
+[![Filters](./design/20-filters.jpeg)](https://javascript-20-filters.netlify.app)
 
 #### Display Products
 
