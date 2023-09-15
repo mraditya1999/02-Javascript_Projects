@@ -65,10 +65,19 @@ Experience the magic of these projects by checking out their live demos:
 25. [Slider](https://javascript-25-slider.netlify.app)
 26. [Stripe Submenus](https://javascript-26-stripe-submenus.netlify.app)
 27. [Pagination](https://javascript-27-pagination.netlify.app)
-28. [Stopwatch](https://javascript-30-stopwatch.netlify.app)
-29. [Notification Toast](https://javascript-31-notification-toast.netlify.app)
-30. [Analog Clock](https://javascript-32-analog-clock.netlify.app)
+28. [Wikipedia](https://javascript-28-wikipedia.netlify.app)
+29. [Stopwatch](https://javascript-30-stopwatch.netlify.app)
+30. [Notification Toast](https://javascript-31-notification-toast.netlify.app)
+31. [Analog Clock](https://javascript-32-analog-clock.netlify.app)
 
 ## Contributing 🥳🎉
 
 We encourage and appreciate your contributions to the JavaScript Projects Repository! Whether it's fixing bugs, adding features, or creating entirely new projects, your input is valuable. Feel free to fork this repository and submit pull requests to make this collection even more impressive.
+
+## Author
+
+- Portfolio - [@mraditya1999](https://www.adityayadav.live)
+- Twitter - [@mraditya1999](https://twitter.com/mraditya1999)
+- Linkedin - [@mraditya1999](https://www.linkedin.com/in/mraditya1999/)
+- Medium - [@mraditya1999](https://medium.com/@mraditya1999)
+- Frontend Mentor - [@mraditya1999](https://www.frontendmentor.io/profile/Aditya-oss-creator)
