@@ -1,6 +1,6 @@
 ## NUMBERS
 
-[![Numbers](./design/18-numbers.jpeg)](https://javascipt-18-numbers.netlify.app)
+[![Numbers](./design/18-numbers.jpeg)](https://javascript-18-numbers.netlify.app)
 
 #### Logic (JS)
 
