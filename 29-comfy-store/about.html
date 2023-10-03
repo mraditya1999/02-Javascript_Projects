@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About | Comfy</title>
+  <!-- font-awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
+
+  <!-- styles css -->
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar page">
+    <div class="nav-center">
+
+      <div>
+        <button type="button" class="toggle-nav">
+          <i class="fas fa-bars"></i>
+        </button>
+
+        <ul class="nav-links">
+          <li><a class="nav-link" href="index.html">Home</a></li>
+          <li><a class="nav-link" href="./products.html">Products</a></li>
+          <li><a class="nav-link" href="./about.html">About</a></li>
+        </ul>
+      </div>
+
+      <img src="./images/logo-black.svg" class="nav-logo" alt="logo">
+
+      <div class="toggle-container">
+        <button type="button" class="toggle-cart">
+          <i class="fas fa-shopping-cart"></i>
+        </button>
+        <span class="cart-item-count">1</span>
+      </div>
+    </div>
+  </nav>
+  <!-- End of Navbar -->
+
+  <!-- PageInfo -->
+  <section class="page-hero">
+    <div class="section-center">
+      <h3 class="page-hero-title">Home / About</h3>
+    </div>
+  </section>
+  <!-- End of PageInfo -->
+
+  <!-- Sidebar -->
+  <div class="sidebar-overlay">
+    <aside class="sidebar">
+      <button type="button" class="sidebar-close">
+        <i class="fas fa-times"></i>
+      </button>
+      <ul class="sidebar-links">
+        <li>
+          <a href="index.html" class="sidebar-link"><i class="fas fa-home fa-fw"></i>Home</a>
+        </li>
+        <li>
+          <a href="./products.html" class="sidebar-link"><i class="fas fa-couch fa-fw"></i>Products</a>
+        </li>
+        <li>
+          <a href="./about.html" class="sidebar-link"><i class="fas fa-book fa-fw"></i>About</a>
+        </li>
+      </ul>
+    </aside>
+  </div>
+  <!-- End of Sidebar -->
+
+  <!-- Cart -->
+  <div class="cart-overlay">
+    <aside class="cart">
+      <button type="button" class="cart-close">
+        <i class="fas fa-times"></i>
+      </button>
+
+      <header>
+        <h3 class="text-slanted">your bag</h3>
+      </header>
+
+      <div class="cart-items">
+        <!-- single item -->
+        <!-- <article class="cart-item" data-id="">
+          <img class="cart-item-img" src="./images/main-bcg.jpeg" alt="title">
+          <div>
+            <h4 class="cart-item-name">high-back bench</h4>
+            <p class="cart-item-price">$13.99</p>
+            <button type="button" class="cart-item-remove-btn">remove</button>
+          </div>
+          <div>
+            <button class="cart-item-increase-btn" type="button"><i class="fas fa-chevron-up"></i></button>
+            <p class="cart-item-amount">1</p>
+            <button class="cart-item-decrease-btn" type="button"><i class="fas fa-chevron-down"></i></button>
+          </div>
+
+        </article> -->
+        <!-- end of single item -->
+
+      </div>
+
+      <footer>
+        <h3 class="cart-total text-slanted">
+          total: $12.99
+        </h3>
+        <button class="cart-checkout btn">checkout</button>
+
+      </footer>
+    </aside>
+  </div>
+  <!-- End of Cart -->
+
+  <!-- About -->
+  <section class="section section-center about-page">
+    <div class="title">
+      <h2><span>/</span>our history</h2>
+    </div>
+    <p class="about-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt molestiae soluta saepe
+      inventore tempore ullam eum reiciendis iste ipsum laudantium beatae voluptas tempora excepturi repellendus,
+      architecto obcaecati quis, magnam accusamus laborum mollitia est! Rerum, sunt eveniet voluptatibus amet odio et
+      alias porro error iusto cum consequatur quos, sapiente quod reiciendis ipsam eos voluptatum. Officiis quis nulla
+      cumque necessitatibus enim eum vitae dolor asperiores nihil in! Maiores consequuntur id fugit praesentium, amet
+      earum quasi dicta aspernatur quisquam, eaque omnis quam aperiam.</p>
+  </section>
+  <!-- End of About -->
+
+  <script type="module" src="./src/pages/about.js"></script>
+</body>
+
+</html>
