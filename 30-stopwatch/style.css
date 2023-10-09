@@ -3,35 +3,55 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .container {
   color: #d7dfe4;
 }
 
+#time {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  gap: 2rem;
+}
+
+#time div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-end;
+}
+
 .digit {
-  font-size: 150px;
+  font-size: clamp(1.5rem, 15vw, 10rem);
   font-weight: bold;
 }
 
 .text {
-  font-size: 40px;
-  margin-top: 40px;
+  font-size: clamp(1.5rem, 2vw, 2.5rem);
+  text-transform: uppercase;
+  margin-bottom: 1rem;
 }
 
 #btn-container {
   text-align: center;
-  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 2rem;
 }
 
 .btn {
-  padding: 14px 35px;
-  font-size: 22px;
-  margin: 0 15px;
+  padding: 0.5rem 1rem;
+  font-size: clamp(1rem, 1vw, 2rem);
+  width: max-content;
   color: white;
   border: 0;
   cursor: pointer;
+  border-radius: 0.25rem;
 }
 
 #start {
