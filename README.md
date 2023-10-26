@@ -67,8 +67,6 @@ Experience the magic of these projects by checking out their live demos:
 27. [Pagination](https://javascript-27-pagination.netlify.app)
 28. [Wikipedia](https://javascript-28-wikipedia.netlify.app)
 29. [Stopwatch](https://javascript-30-stopwatch.netlify.app)
-30. [Notification Toast](https://javascript-31-notification-toast.netlify.app)
-31. [Analog Clock](https://javascript-32-analog-clock.netlify.app)
 
 ## Contributing 🥳🎉
 
